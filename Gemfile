@@ -20,9 +20,11 @@ gem 'rack-cors'
 
 group :development, :test do
   gem 'debug', platforms: %i[mri windows]
+  gem 'factory_bot_rails'
   gem 'faker'
   gem 'rspec-rails', '~> 7.0.0'
   gem 'rubocop', require: false
+  gem 'pry-rails'
 end
 
 group :test do
