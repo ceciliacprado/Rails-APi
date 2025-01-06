@@ -25,6 +25,7 @@ group :development, :test do
   gem 'rspec-rails', '~> 7.0.0'
   gem 'rubocop', require: false
   gem 'pry-rails'
+  gem 'devise'
 end
 
 group :test do
