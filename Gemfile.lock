@@ -276,6 +276,8 @@ GEM
       parser (>= 3.3.1.0)
     ruby-progressbar (1.13.0)
     securerandom (0.4.0)
+    shoulda-matchers (6.4.0)
+      activesupport (>= 5.2.0)
     simplecov (0.22.0)
       docile (~> 1.1)
       simplecov-html (~> 0.11)
@@ -318,6 +320,7 @@ DEPENDENCIES
   rspec-rails (~> 7.0.0)
   rswag
   rubocop
+  shoulda-matchers
   simplecov
   tzinfo-data
 

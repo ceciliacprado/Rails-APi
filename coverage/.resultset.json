@@ -76,6 +76,18 @@
         "branches": {
         }
       },
+      "/home/cecilia/Área de trabalho/cecilia/Projetos/api-rails /Rails-APi/app/models/user.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
       "/home/cecilia/Área de trabalho/cecilia/Projetos/api-rails /Rails-APi/lib/api_test.rb": {
         "lines": [
           0,
@@ -95,6 +107,6 @@
         }
       }
     },
-    "timestamp": 1735925390
+    "timestamp": 1738760313
   }
 }
