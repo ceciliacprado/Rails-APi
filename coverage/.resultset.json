@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/cecilia/Área de trabalho/cecilia/Projetos/api-rails /Rails-APi/app/channels/application_cable/channel.rb": {
+      "/home/cecilia/projetos_api/Rails-APi/app/channels/application_cable/channel.rb": {
         "lines": [
           null,
           null,
@@ -10,10 +10,9 @@
           0,
           0
         ],
-        "branches": {
-        }
+        "branches": {}
       },
-      "/home/cecilia/Área de trabalho/cecilia/Projetos/api-rails /Rails-APi/app/channels/application_cable/connection.rb": {
+      "/home/cecilia/projetos_api/Rails-APi/app/channels/application_cable/connection.rb": {
         "lines": [
           null,
           null,
@@ -22,10 +21,9 @@
           0,
           0
         ],
-        "branches": {
-        }
+        "branches": {}
       },
-      "/home/cecilia/Área de trabalho/cecilia/Projetos/api-rails /Rails-APi/app/controllers/application_controller.rb": {
+      "/home/cecilia/projetos_api/Rails-APi/app/controllers/application_controller.rb": {
         "lines": [
           null,
           null,
@@ -35,10 +33,9 @@
           0,
           0
         ],
-        "branches": {
-        }
+        "branches": {}
       },
-      "/home/cecilia/Área de trabalho/cecilia/Projetos/api-rails /Rails-APi/app/jobs/application_job.rb": {
+      "/home/cecilia/projetos_api/Rails-APi/app/jobs/application_job.rb": {
         "lines": [
           null,
           null,
@@ -50,10 +47,9 @@
           null,
           0
         ],
-        "branches": {
-        }
+        "branches": {}
       },
-      "/home/cecilia/Área de trabalho/cecilia/Projetos/api-rails /Rails-APi/app/mailers/application_mailer.rb": {
+      "/home/cecilia/projetos_api/Rails-APi/app/mailers/application_mailer.rb": {
         "lines": [
           null,
           null,
@@ -62,10 +58,9 @@
           0,
           0
         ],
-        "branches": {
-        }
+        "branches": {}
       },
-      "/home/cecilia/Área de trabalho/cecilia/Projetos/api-rails /Rails-APi/app/models/application_record.rb": {
+      "/home/cecilia/projetos_api/Rails-APi/app/models/application_record.rb": {
         "lines": [
           null,
           null,
@@ -73,10 +68,19 @@
           0,
           0
         ],
-        "branches": {
-        }
+        "branches": {}
       },
-      "/home/cecilia/Área de trabalho/cecilia/Projetos/api-rails /Rails-APi/lib/api_test.rb": {
+      "/home/cecilia/projetos_api/Rails-APi/app/models/user.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/home/cecilia/projetos_api/Rails-APi/lib/api_test.rb": {
         "lines": [
           0,
           0,
@@ -91,10 +95,9 @@
           0,
           0
         ],
-        "branches": {
-        }
+        "branches": {}
       }
     },
-    "timestamp": 1735925390
+    "timestamp": 1739196101
   }
 }
